@@ -83,7 +83,6 @@ color: rgb(50, 65, 79);
 
      
  }
-/* button*/
 button {
     text-decoration: none;
     position: absolute;
@@ -140,10 +139,10 @@ button {
 .ti{
     position: absolute;
     text-align: center;
-    top: 78%;
-    left: 40%;
+    top: 74%;
+    left: 37%;
     color: rgb(187, 0, 255);
-    font-size: 180%;
+    font-size: 260%;
     font-family:  'Pacifico', cursive ;
     
 }
@@ -327,7 +326,7 @@ button {
     transform: scale(0.95);
    }
 
-   .book{
+   #book{
     position: absolute;
     top:490%; 
     left: 34%;
